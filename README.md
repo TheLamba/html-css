@@ -1,4 +1,4 @@
-# Testando deitar para comitar
+# Testando editar para comitar
 
 <img src="imagens/mascote.png" align="right" width="300">
 
